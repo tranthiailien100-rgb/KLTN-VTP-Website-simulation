@@ -71,7 +71,7 @@ export function Footer() {
               <h3 className="mb-2 mt-[30px] text-[16px] font-bold leading-[22px]">THÔNG TIN LIÊN HỆ</h3>
               <p className="mb-4 flex gap-2.5 text-[14px] leading-5"><Icon name="pin" className="mt-1 h-3.5 w-3.5 shrink-0 text-vt" />Địa chỉ trụ sở: Phường Cầu Giấy, Thành phố Hà Nội (thông tin minh họa)</p>
               <p className="mb-4 flex items-center gap-2.5 text-[14px] leading-5"><Icon name="mail" className="h-3.5 w-3.5 shrink-0 text-vt" /><a href="#" onClick={inert}>cskh@example.com</a></p>
-              <p className="mb-4 flex items-center gap-2 text-[30px] leading-5 lg:text-[36px]"><Icon name="phone" className="h-5 w-5 text-vt" /><a href="#" onClick={inert}>1900 xxxx</a></p>
+              <p className="mb-4 flex items-center gap-2 text-[30px] leading-5 lg:text-[36px]"><Icon name="phone" className="h-5 w-5 text-vt" /><a href="#" onClick={inert}>19001234</a></p>
 
               <h4 className="mb-[15px] mt-6 text-[18px] font-medium">Kết nối cùng ViettelPost</h4>
               <div className="flex items-center">
